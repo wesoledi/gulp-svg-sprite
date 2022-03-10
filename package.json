@@ -26,13 +26,13 @@
   ],
   "dependencies": {
     "plugin-error": "^1.0.1",
-    "svg-sprite": "^1.5.4"
+    "svg-sprite": "^2.0.0-beta2"
   },
   "devDependencies": {
     "glob": "^7.2.0",
     "gulp": "^4.0.2",
     "looks-same": "^7.3.0",
-    "mocha": "^9.2.0",
+    "mocha": "^9.2.1",
     "svg2png": "^4.1.1",
     "vinyl": "^2.2.1",
     "xo": "^0.48.0"
